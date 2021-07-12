@@ -1,0 +1,15 @@
+{
+  "allowJs":"true",
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "baseUrl": "src"
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "pretty":"true"
+}
